@@ -1,0 +1,111 @@
+[
+  {
+    "ClickedPoints": [
+      {
+        "IsEmpty": false,
+        "X": 632.0,
+        "Y": 310.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 610.0,
+        "Y": 297.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 576.0,
+        "Y": 296.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 538.0,
+        "Y": 292.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 514.0,
+        "Y": 295.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 511.0,
+        "Y": 293.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 524.0,
+        "Y": 259.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 526.0,
+        "Y": 239.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 525.0,
+        "Y": 208.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 525.0,
+        "Y": 184.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 538.0,
+        "Y": 188.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 563.0,
+        "Y": 193.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 588.0,
+        "Y": 197.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 608.0,
+        "Y": 197.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 633.0,
+        "Y": 201.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 648.0,
+        "Y": 200.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 634.0,
+        "Y": 227.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 632.0,
+        "Y": 246.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 631.0,
+        "Y": 270.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 631.0,
+        "Y": 289.0
+      },
+      {
+        "IsEmpty": false,
+        "X": 634.0,
+        "Y": 312.0
+      }
+    ]
+  }
+]
